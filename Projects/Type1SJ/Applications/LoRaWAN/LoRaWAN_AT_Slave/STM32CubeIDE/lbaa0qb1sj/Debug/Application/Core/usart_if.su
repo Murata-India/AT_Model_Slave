@@ -1,0 +1,7 @@
+usart_if.c:94:25:vcom_Init	8	static
+usart_if.c:108:25:vcom_DeInit	8	static
+usart_if.c:144:25:vcom_Trace_DMA	8	static
+usart_if.c:156:25:vcom_ReceiveInit	16	static
+usart_if.c:133:6:vcom_Trace	8	static
+usart_if.c:192:6:HAL_UART_TxCpltCallback	8	static
+usart_if.c:204:6:HAL_UART_RxCpltCallback	16	static

@@ -1,0 +1,4 @@
+lora_command.c:709:13:CMD_GetChar	8	static
+lora_command.c:824:13:com_error	8	static
+lora_command.c:554:6:CMD_Init	8	static
+lora_command.c:575:6:CMD_Process	40	static,ignoring_inline_asm
